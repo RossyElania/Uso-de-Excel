@@ -2,6 +2,30 @@
 Archivos de Excel utilizados para la manipulación, visualización y análisis de datos mediante funciones propias de Excel, como tablas dinámicas, fórmulas, gráficos y segmentación de datos. Estos archivos permiten explorar tendencias, calcular indicadores clave y generar visualizaciones útiles para la toma de decisiones.
 
 ---
+## Dashboard Dinámico: Solicitudes de Crédito en Asociaciones de Ahorros y Préstamos (2012–2024)
+Este archivo contiene un dashboard interactivo con dos pestañas: "**Tabla Pivot**" y "**Gráficos**".
+Este dashboard es útil para obtener una visión clara y dinámica de las solicitudes de crédito, segmentadas por diversos factores como tipo de facilidad, edad, género, región, y entidad financiera, facilitando la toma de decisiones estratégicas y el análisis de tendencias a lo largo del tiempo.
+
+### Pestaña 1: Tabla Pivot
+En esta pestaña se presenta una tabla dinámica que organiza la información sobre las solicitudes de crédito en las principales entidades financieras entre 2012 y 2024. La tabla incluye datos como:
+* Distribución por tipo de facilidad crediticia.
+* Porcentaje de solicitudes por tipo de facilidad crediticia y por entidad.
+* Distribución por edad y género.
+* Evolución anual de las solicitudes de crédito.
+* Solicitudes totales por región.
+![image](https://github.com/user-attachments/assets/0ea0ee46-d813-4c05-9f99-24cf06ab8fce)
+
+
+### Pestaña 2: Gráficos
+* Aquí se visualizan diferentes gráficos interactivos que facilitan el análisis de los datos:
+* Gráficos de barras para la distribución de las solicitudes por tipo de facilidad crediticia.
+* Gráficos de barras agrupadas que muestran la distribución por región y género.
+* Gráficos circulares que visualizan los porcentajes de solicitudes por tipo de facilidad crediticia y por entidad financiera.
+![image](https://github.com/user-attachments/assets/93e0dbef-f131-4c12-93c3-323cd9b7edba)
+
+[Solicitudes de Crédito_Dashboard.xlsx](https://github.com/user-attachments/files/20026050/Solicitudes.de.Credito_Dashboard.xlsx)
+
+---
 ## Mapa coroplético con datos de ventas por provincia en República Dominicana.
 Este archivo contiene un mapa de la República Dominicana con datos de ventas distribuidos por provincia. Los valores representados corresponden al total de ventas registradas por cada región, utilizando un gradiente de color para facilitar la visualización comparativa.
 Este gráfico es útil para análisis geográficos de desempeño comercial, planificación estratégica o reportes ejecutivos.
