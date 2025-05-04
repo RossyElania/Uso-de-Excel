@@ -1,5 +1,5 @@
 # Excel Usage
-Excel files used for data manipulation, visualization, and analysis through native Excel features like pivot tables, formulas, charts, and data segmentation. These files enable the exploration of trends, calculation of key indicators, and generation of helpful visualizations for decision-making.
+Excel files used for data manipulation, visualization, and analysis through native Excel features like pivot tables, formulas, charts, and data segmentation. These files enable the exploration of trends, calculation of key indicators, and generation of helpful visualizations for decision making.
 
 ---
 ## Dynamic Dashboard: Credit Applications in Savings and Loan Associations (2012–2024)
