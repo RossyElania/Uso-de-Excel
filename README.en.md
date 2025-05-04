@@ -5,7 +5,7 @@ Excel files used for data manipulation, visualization, and analysis through nati
 ## Dynamic Dashboard: Credit Applications in Savings and Loan Associations (2012–2024)
 This file contains an interactive dashboard with two tabs: "**Pivot Table**" and "**Charts**".
 
-It offers a clear and dynamic overview of credit applications segmented by various factors such as type of credit facility, age, gender, region, and financial institution — supporting strategic decision-making and trend analysis over time.
+It offers a clear and dynamic overview of credit applications segmented by various factors such as type of credit facility, age, gender, region, and financial institution supporting strategic decision-making and trend analysis over time.
 
 ### Tab 1: Pivot Table
 This tab presents a pivot table summarizing credit applications across major financial entities from 2012 to 2024, including:
