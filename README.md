@@ -18,6 +18,15 @@ Este análisis es útil para entender las características estadísticas de la a
 [Análisis Estadístico y Modelado de Series Temporales.xlsx](https://github.com/user-attachments/files/20026009/Analisis.Estadistico.y.Modelado.de.Series.Temporales.xlsx)
 
 ---
+## Problema de Optimización para la Compra de Útiles de Oficina
+Este archivo contiene un problema de optimización utilizando el método de Solver en Excel, con el objetivo de determinar la compra óptima de productos para una empresa dentro de un presupuesto de 7,800 pesos. El archivo incluye las restricciones de compra, como la cantidad mínima de cada producto y la necesidad de obtener soluciones enteras para las cantidades adquiridas.
+
+El análisis realizado en el archivo permite identificar las cantidades de productos a adquirir para obtener el mejor uso del presupuesto disponible, a pesar de que, debido a las restricciones impuestas, el total supera los 7,800 pesos.
+Este ejercicio es útil para la toma de decisiones en la gestión de presupuestos y optimización de recursos dentro de empresas.
+
+[Uso de Solver.xlsx](https://github.com/user-attachments/files/20026014/Uso.de.Solver.xlsx)
+
+---
 ## Análisis de transacciones por sucursal y tipo de cuenta usando Power Query en Excel o Power BI.
 Archivo con instrucciones para transformar y analizar datos de transacciones usando Power Query en Excel o Power BI. Incluye pasos para limpieza, creación de columnas, filtrado y agrupación de datos, así como preguntas clave de análisis con respuestas obtenidas directamente del procesamiento.
 
